@@ -1,0 +1,30 @@
+.card{
+    width: 200px;
+    height: 200px;
+    display: flexbox;
+    margin: 7px;
+    border-radius: 15px;
+    border: 3px solid #84828F;
+    padding: 5px;
+    color: white;
+    background-color: #6B6761;
+    opacity: 60%;
+}
+
+.card:hover{
+    opacity: 100%; 
+           
+}
+
+.cardImage{
+    width: 120px;
+    height: 120px;
+    display: flexbox;
+    margin: 5px;
+    border-radius: 100%;
+    border: 2px solid #84828F;
+}
+
+h2{
+    margin: 0;
+}
